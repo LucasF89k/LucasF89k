@@ -42,7 +42,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake.svg" alt="Cobra animation" />
 
 ###
 
