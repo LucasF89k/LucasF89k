@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋! My name is Lucas Fortuna</h2>
 
 
-<p align="center">Estudante de Egenharia de Software na Universidade Católica de Brasília. Atualmente trabalho na Câmara Legislativa e estudo Java e Python.
+<p align="center">Estudante de Engenharia de Software na Universidade Católica de Brasília. Atualmente trabalho na Câmara Legislativa e estudo Java e Python.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
