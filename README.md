@@ -1,6 +1,6 @@
 
 
-<center/> <h2 align="left">Hi 👋! My name is Lucas Fortuna</h2>
+<h2 align="center">Hi 👋! My name is Lucas Fortuna</h2>
 
 
 <p align="center">Estudante de Egenharia de Software na Universidade Católica de Brasília. Atualmente trabalho na Câmara Legislativa e estudo Java e Python.
