@@ -8,8 +8,7 @@
 </div>
 
 
-<p align="center">Estudante de Engenharia de Software na Universidade Católica de Brasília. Atualmente trabalho na Câmara Legislativa, estudo Java e Python.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Software Engineering student at the Catholic University of Brasília. I currently work at the Legislative Assembly, studying Java and Python. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
   
 #
 <div align="center">
