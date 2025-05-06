@@ -8,7 +8,7 @@
 </div>
 
 
-<p align="center">oftware Engineering student at the Catholic University of Brasília. I currently work at the Legislative Assembly of the Federal District, studying Java and Python. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
+<p align="center">Software Engineering student at the Catholic University of Brasília. I currently work at the Legislative Assembly of the Federal District, studying Java and Python. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
   
 #
 <div align="center">
