@@ -61,8 +61,9 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 ### 💻 About Me
 
 <img
-  align="right"
+align="right"
   width="190"
+  style="margin-top: -10px;"
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OHQzbm5wa2ZmeWZwOXYzeGN2ZHpyYWIyYzVnbTE3cHJwOGg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
   alt="coding gif"
 />
