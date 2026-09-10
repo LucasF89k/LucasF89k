@@ -4,19 +4,17 @@
 
 <b>Software Engineering Student | Developer | Technology Enthusiast</b>
 
-<br><br>
+<br>
 
 Software Engineering student at the Catholic University of Brasília.<br>
 Currently working at the Legislative Assembly of the Federal District.<br>
 Studying and developing projects with Java, Python, JavaScript, TypeScript and other technologies.
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/lucas._fortuna/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>&nbsp;<a href="https://www.twitch.tv/shyy89_"><img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="25"></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=LucasF89k&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" height="25">&nbsp;<img src="https://img.shields.io/github/followers/LucasF89k?style=for-the-badge&logo=github&label=FOLLOWERS" height="25">
 
 </div>
-
-<br>
 
 ### 🛠️ Languages and Technologies
 
@@ -37,8 +35,6 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="SQL Server">
 </p>
 
-<br>
-
 ### 📊 Statistics
 
 <table>
@@ -52,15 +48,11 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 </tr>
 </table>
 
-<br>
-
 ### 🐍 Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 </div>
-
-<br>
 
 ### 💻 About Me
 
