@@ -22,13 +22,12 @@
 <div align="center">
   <img
     src="./profile/stats.svg"
-    height="150"
+    width="49%"
     alt="GitHub stats"
   />
-
   <img
     src="./profile/top-langs.svg"
-    height="150"
+    width="49%"
     alt="Top languages"
   />
 </div>
@@ -45,7 +44,6 @@
 ###
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java" />
   <img width="12" />
 
@@ -86,13 +84,11 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sqlserver" />
-
 </div>
 
 ###
 
 <div align="left">
-
   <a href="https://www.instagram.com/lucas._fortuna/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
@@ -108,7 +104,6 @@
       alt="twitch"
     />
   </a>
-
 </div>
 
 ###
@@ -135,3 +130,5 @@
 </picture>
 
 </div>
+
+###
