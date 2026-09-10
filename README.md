@@ -11,7 +11,6 @@
 </p>
 
 <div align="center">
-
   <a href="https://www.instagram.com/lucas._fortuna/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
@@ -39,15 +38,13 @@
     height="28"
     alt="followers"
   />
-
 </div>
 
----
+<br>
 
-## 🛠️ Languages and Technologies
+<h2>🛠️ Languages and Technologies</h2>
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java" />
   <img width="8" />
 
@@ -88,12 +85,11 @@
   <img width="8" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="sqlserver" />
-
 </div>
 
----
+<br>
 
-## 📊 Statistics
+<h2>📊 Statistics</h2>
 
 <div align="center">
   <img
@@ -108,40 +104,26 @@
   />
 </div>
 
----
+<br>
 
-## 🐍 Contributions
+<h2>🐍 Contributions</h2>
 
 <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg"
+    />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake.svg"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg"
-    width="100%"
-  />
-</picture>
-
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg"
+      width="100%"
+    />
+  </picture>
 </div>
-
----
-
-## 💻 About Me
-
-- 🎓 Software Engineering student at the Catholic University of Brasília
-- 🏛️ Currently working at the Legislative Assembly of the Federal District
-- ☕ Studying and developing with Java
-- 🐍 Working with Python
-- 🌐 Experience with web development
-- 🗄️ MySQL, MongoDB and SQL Server
-- 🚀 Always learning new technologies and building new projects
