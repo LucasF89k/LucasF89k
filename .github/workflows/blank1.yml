@@ -23,6 +23,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LucasF89k
+          github_token: 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
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
