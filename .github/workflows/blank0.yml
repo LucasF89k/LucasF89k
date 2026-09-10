@@ -1,0 +1,35 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: LucasF89k
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push snake SVG to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: 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
+          publish_branch: output
+          publish_dir: ./dist
