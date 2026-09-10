@@ -42,7 +42,6 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 <td width="50%">
 <img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/main/profile/stats.svg" width="100%" alt="GitHub Stats">
 </td>
-
 <td width="50%">
 <img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/main/profile/top-langs.svg" width="100%" alt="Top Languages">
 </td>
@@ -59,12 +58,14 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 >
 </div>
 
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
 ### 💻 About Me
+
+<img
+  align="right"
+  width="230"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OHQzbm5wa2ZmeWZwOXYzeGN2ZHpyYWIyYzVnbTE3cHJwOGg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+  alt="coding gif"
+/>
 
 🎓 Software Engineering student at the Catholic University of Brasília  
 🏛️ Working at the Legislative Assembly of the Federal District  
@@ -72,19 +73,6 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 🐍 Python developer  
 🌐 Web development  
 🗄️ MySQL, MongoDB and SQL Server  
-🚀 Always learning and building new projects
+🚀 Always learning and building new projects  
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OHQzbm5wa2ZmeWZwOXYzeGN2ZHpyYWIyYzVnbTE3cHJwOGg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-  width="230"
-  alt="coding gif"
->
-
-</td>
-
-</tr>
-</table>
+<br clear="right">
