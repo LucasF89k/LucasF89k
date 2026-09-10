@@ -42,6 +42,7 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 <td width="50%">
 <img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/main/profile/stats.svg" width="100%" alt="GitHub Stats">
 </td>
+
 <td width="50%">
 <img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/main/profile/top-langs.svg" width="100%" alt="Top Languages">
 </td>
@@ -51,8 +52,17 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 ### 🐍 Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+<img
+  src="https://raw.githubusercontent.com/LucasF89k/LucasF89k/output/snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+>
 </div>
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 ### 💻 About Me
 
@@ -63,3 +73,18 @@ Studying and developing projects with Java, Python, JavaScript, TypeScript and o
 🌐 Web development  
 🗄️ MySQL, MongoDB and SQL Server  
 🚀 Always learning and building new projects
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OHQzbm5wa2ZmeWZwOXYzeGN2ZHpyYWIyYzVnbTE3cHJwOGg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+  width="230"
+  alt="coding gif"
+>
+
+</td>
+
+</tr>
+</table>
